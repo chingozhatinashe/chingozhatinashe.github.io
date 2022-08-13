@@ -1,6 +1,6 @@
 baseURL = "https://example.com/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Tinashe Chingozha"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -12,7 +12,7 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "img/profile.png"
-  author = "Chris Turner"
+  author = "Tinashe Chingozha"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -20,14 +20,10 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
-  RSS           = "/blog/index.xml"
+  Github        = "chingozhatinashe"
+  Email         = "chingozhatinashe@gmail.com"
+  Twitter       = "Chingozha_T"
+  LinkedIn      = "Tinashe Chingozha"
 
 ## Main Menu
 [[menu.main]]
