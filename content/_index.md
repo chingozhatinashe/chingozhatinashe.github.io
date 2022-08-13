@@ -12,5 +12,4 @@ Contact me at  [email].
 
 [projects]: /projects
 [resume]: https://demo.nurlan.co/hugo-vitae/
-[@username]: https://twitter.com/username
 [email]: mailto:chingozhatinashe@gmail.com
